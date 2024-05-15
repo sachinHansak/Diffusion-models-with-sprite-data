@@ -6,3 +6,8 @@ https://lnkd.in/gYMf4EXa - DDPM
 https://lnkd.in/gsCy_pv8 - DDIM
 
 sprites 16x16 image dataset:- https://lnkd.in/gF3zM7Ms
+
+## Here I attached the preview video of the my Implementation, look power of diffusion models:-
+
+https://github.com/sachinHansak/Diffusion-models-with-sprite-data/assets/129732765/457f3e5f-e943-4baf-8b11-9b6525e5243c
+
